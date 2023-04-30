@@ -20,10 +20,10 @@ Ghazel (Arabic) means Deer in English.  Deers are known for their quick reflexes
 # Team Info
 
 
--Members:
-Melhem El Hayek
-Joe El Hage
-Michel Aoun
+Members:
+-Melhem El Hayek,
+-Joe El Hage,
+-Michel Aoun.
 
 
 
