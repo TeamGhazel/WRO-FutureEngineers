@@ -16,3 +16,14 @@ This repository provides information and knowledge regarding the ongoing progres
 
 
 Ghazel (Arabic) means Deer in English.  Deers are known for their quick reflexes, acute senses and ability to move rapidly through their environment, this would be a perfect name describing our autonomous car.
+
+# Team Info
+
+
+-Members:
+Melhem El Hayek
+Joe El Hage
+Michel Aoun
+
+
+
