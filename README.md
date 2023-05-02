@@ -24,9 +24,9 @@ Members:
 
 -Melhem El Hayek                                                                                                                                      
 
--Joe El Hage
-
 -Michel Aoun
+
+-Joe Hage
 
 
 
