@@ -1,14 +1,14 @@
 👋Hii there, i'm Manhouse!
 🤧My parents Michel, Melhem and Joe named me this way because of my unfortunate tendencies to always have health issues (always have a malfunctiooning component)
 🎂Next December the first, I'll turn 1 year old!
-Sticks and stones can't break my metals
+💪Sticks and stones can't break my metals
 ♐Sagittarius♐
 🏎You got to live life at 400 rpm!
 🤖Pronouns: Ro/Bot
 🌍GlobeTrotter because my parts come from all around the world despite the fact that I haven't visited Panama (yet)
 🤙Contact me: (I don't bite) https://instagram.com/teamghazel?igshid=MjEwN2IyYWYwYw==
 🌊Ocean blue eyes
-💪GymGirl (can't stop running)
+🏋GymGirl (can't stop running)
 
 
 
