@@ -103,10 +103,7 @@ void loop() {
     distance2 = duration2 * 0.034 / 2;
     if (distance2>40){
       turn(right);
-    }
-
-    
-    
+    }    
   }
   else{
     digitalWrite(motorPin1,HIGH);
