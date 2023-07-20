@@ -55,7 +55,6 @@ Members:
 
 -Joe El Hage
 
-Hi
 
 
 
