@@ -85,7 +85,6 @@ void loop() {
     if (distance2<40){
 
       turn(left);
-
     }
     digitalWrite(motorPin1, LOW);
     digitalWrite(motorPin2, LOW);
