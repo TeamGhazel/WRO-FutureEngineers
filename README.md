@@ -1,4 +1,4 @@
-👋Hii there, i'm Manhouse!
+👋Hii there, i'm Manhouse! <br/>
 🤧My parents Michel, Melhem and Joe named me this way because of my unfortunate tendencies to always have health issues (always have a malfunctiooning component)
 🎂Next December the first, I'll turn 1 year old!
 💪Sticks and stones can't break my metals
