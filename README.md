@@ -8,9 +8,8 @@ This repository provides information and knowledge regarding the ongoing progres
 
 1. Our Photos
 2. Robot's Photos
-3. Youtube Video
-4. Schematic Diagrams
-5. Code
+3. Circuit
+4. Code
 
 # Team Name Meaning
 
